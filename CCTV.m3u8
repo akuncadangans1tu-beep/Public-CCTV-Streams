@@ -1,15 +1,19 @@
 #EXTM3U
-#EXTINF:-1,CCTV Jembatan Ampera Arah Ilir (576P)
+#EXTINF:-1,CCTV Jembatan Ampera Arah Ilir
 https://stream.palembang.go.id/cam22/main_stream.m3u8
-#EXTINF:-1,CCTV Jembatan Ampera Tengah (576P)
+#EXTINF:-1,CCTV Jembatan Ampera Tengah
 https://stream.palembang.go.id/cam1/main_stream.m3u8
 #EXTINF:-1,CCTV Simpang Angkatan 45
 https://stream.palembang.go.id/cam5/main_stream.m3u8
 #EXTINF:-1,CCTV Plaju Jembatan 1
 https://stream.palembang.go.id/cam18/main_stream.m3u8
-#EXTINF:-1,CCTV Masjid Agung (1080P)
+#EXTINF:-1,CCTV Masjid Agung
 https://stream.palembang.go.id/cam9/main_stream.m3u8
 #EXTINF:-1,CCTV Benteng Kuto Besak
 https://stream.palembang.go.id/cam2/main_stream.m3u8
 #EXTINF:-1,CCTV Jembatan Ampera Arah Ulu
 https://stream.palembang.go.id/cam29/main_stream.m3u8
+#EXTINF:-1,CCTV Taman Siswa
+https://stream.palembang.go.id/cam40/main_stream.m3u8
+#EXTINF:-1,CCTV Plaza 7 Ulu
+https://stream.palembang.go.id/cam20/main_stream.m3u8
